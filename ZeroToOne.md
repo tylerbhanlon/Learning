@@ -87,5 +87,34 @@ but Thiel argues that the following are probably more correct:
 
 Theil urges us to question how much of what we know about business is is shapen by mistaken reactions to past mistakes.
 
+## Chapter 3 - All Happy Companies Are Different 
+
+This chapter focuses on monopolies and competetive markets, with an emphasis on the fact that competetive markets are totally 
+destructive to profits.
+
+When planning a business, it is important to capture some of the value you create. Without doing this effectiveley, you can grow and 
+grow, but still have a relatively small margin of profit (ex: airlines)
+
+In Economics 101, the ideal and default state is referred to as "Perfect Competition" where producer supply meets consumer demand.
+In this scenario, no company makes an economic profit.
+
+The opposite of the above is a monopoly, where an entity owns its market and can sell at its own prices.
+
+Thiel describes a monopoly simply as a company that is so good at what it does, that no other firm can offer a close substituite.
+
+One of the best things you can offer to users is the oppurtunity for them to choose something new.
+
+Monopolies lie in ways which downplay their market dominance, and attempt to frame themselves as competetores in broader markets.
+
+Competitors lie to make themselves seem unique and standout. 
+
+"The fatal temptation is to describe your market extremely narrowly so that you dominate it by definition"
+
+Companies without competition can put more effort into innovation and caring about its mission. You actually don't *want* money to be everything. This is only possible in a monopoly. 
+
+Thiel spends the end of this chapter praising monopolies, as they grace the average person with the choice to purchase their products and they drive innovation. Personally this take doesn't really resonate with me too well though I can kind of see where he's coming from. 
+
+"All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition"
+
 
 
