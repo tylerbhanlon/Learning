@@ -45,7 +45,7 @@ With the billions of dollars currently being invested into AI, this chapter seem
 Some time is spent talking through the history and the context of the decade leading up to the dot com crash.
 
 The US was in a recession by the mid 1990's, things just overall felt sluggish even in Silicon Valley.
-User-friendly browsers weren't even widely available in 1993 with the Mosaic browser.
+User-friendly browsers weren't even widely available until 1993 with the Mosaic browser.
 
 This evolved into the company Netscape and itss Navigator browser in 1995, which dominated 80% of the browser market
 and IPO'd in August '95 without even being profitable. The stock rose from $28 to $174 in 5 months.
