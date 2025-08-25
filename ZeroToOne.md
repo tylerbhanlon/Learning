@@ -92,7 +92,7 @@ Theil urges us to question how much of what we know about business is is shapen 
 This chapter focuses on monopolies and competetive markets, with an emphasis on the fact that competetive markets are totally 
 destructive to profits.
 
-When planning a business, it is important to capture some of the value you create. Without doing this effectiveley, you can grow and 
+When planning a business, it is important to capture some of the value you create. Without doing this effectively, you can grow and 
 grow, but still have a relatively small margin of profit (ex: airlines)
 
 In Economics 101, the ideal and default state is referred to as "Perfect Competition" where producer supply meets consumer demand.
